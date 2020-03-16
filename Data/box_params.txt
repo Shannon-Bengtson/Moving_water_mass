@@ -1,0 +1,5 @@
+para value
+dep_3_UVic 800 
+dep_3_LOVECLIM 800
+lat_1 -43
+lat_3 50

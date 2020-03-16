@@ -1,0 +1,2 @@
+"Row.names" "dataset" "equation" "model" "type" "period" "reps" "run.no" "dep_4" "filename" "success.rate" "sigma" "N_mem" "A_mem" "a.AABW" "b.AABW" "c.AABW" "e.AABW" "a.NADW" "b.NADW" "c.NADW" "e.NADW" "lower" "upper"
+"1" "Holocene" "quad" "UVic" "data" "Holocene" 1 "1" 3600 "1_Holocene_UVic_Holocene_data_quad_d13C.txt" TRUE 0.277601536733733 1.03721402116402 -0.0154901960784314 0.00612753610053517 -0.00152641788547636 1.71675884016157e-07 3.94654258509636 0.00224512488821174 0.000310912209022005 -7.68184653376041e-08 0.65607836889496 2 8
